@@ -19,7 +19,7 @@ export default function TermsOfServiceComponent() {
             <div className="space-y-4">
               <div className="mb-8 text-gray-900">
                 <p>
-                  <strong>Last updated June 9th, 2024</strong>
+                  <strong>Last updated Feb 13th, 2025</strong>
                 </p>
               </div>
 
